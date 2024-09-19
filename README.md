@@ -1,2 +1,2 @@
-# nerdfactory.github.io-
+# nerdfactory.github.io
 Org homepage
